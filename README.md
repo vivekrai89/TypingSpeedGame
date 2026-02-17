@@ -42,3 +42,8 @@ Add scoreboard or history of WPM for multiple rounds
 Include countdown timers for challenges
 
 Integrate additional sentences or user-generated texts
+
+
+About the Author
+
+This project was developed by Vivek Rai, a Java Full Stack developer passionate about building interactive applications and improving coding skills through hands-on projects.
