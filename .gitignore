@@ -1,0 +1,69 @@
+# ========================
+# IntelliJ IDEA
+# ========================
+.idea/
+*.iml
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+# ========================
+# Eclipse
+# ========================
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+# ========================
+# NetBeans
+# ========================
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# ========================
+# VS Code
+# ========================
+.vscode/
+
+# ========================
+# Mac OS
+# ========================
+.DS_Store
+
+# ========================
+# Java compiled class files
+# ========================
+*.class
+
+# ========================
+# Log files
+# ========================
+*.log
+
+# ========================
+# Build folders
+# ========================
+build/
+target/
+
+# ========================
+# IntelliJ library and caches
+# ========================
+*.iws
+.idea_modules/
+
+# ========================
+# Optional: Images or resources you DO want to commit
+# ========================
+# If you want to commit your images/resources, do NOT ignore the resources folder
+# For example, if your images are in src/main/resources or src/main/images, leave them unignored
