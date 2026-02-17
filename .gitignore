@@ -62,8 +62,3 @@ target/
 *.iws
 .idea_modules/
 
-# ========================
-# Optional: Images or resources you DO want to commit
-# ========================
-# If you want to commit your images/resources, do NOT ignore the resources folder
-# For example, if your images are in src/main/resources or src/main/images, leave them unignored
